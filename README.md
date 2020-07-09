@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+
+I'm a full stack Typescript developer with a focus on front-end technology - particularly in Angular. I'm also a team player who loves to learn and teach, promoting best practices and with an always curious mind. 
+
+🔭 I’m currently building high performance enterprise web apps and APIs with Angular, NestJS and Mongo
 
 <!--
 **fdelgadoarrechea/fdelgadoarrechea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
